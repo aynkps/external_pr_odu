@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="84dc5ffc-71e9-46c7-8a27-680f398c6d64">
+  <producedTypes>
+    <objectType typeId="d2e4b619-9d28-418c-b2d5-bd047e899e6a" valueTypeId="042fc1ac-3f00-4306-81ee-c9c1d93a2fe3"/>
+  </producedTypes>
+  <name>пр_НастройкиПовтИсп</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пр настройки повт исп</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="1bed0162-350f-4b73-811f-954dbc49c24b"/>
+  <defaultForm>ExternalDataProcessor.пр_НастройкиПовтИсп.Form.ФормаНастройкиРаботыМодулейМетодов</defaultForm>
+  <forms uuid="3160473b-48db-42c4-9d4e-f0e481c8b840">
+    <name>ФормаНастройкиРаботыМодулейМетодов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма настройки работы модулей методов</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

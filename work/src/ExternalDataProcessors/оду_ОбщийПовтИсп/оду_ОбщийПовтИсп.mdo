@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fb5a8934-c70e-439d-9d9e-fe837521b44c">
+  <producedTypes>
+    <objectType typeId="2c0f6542-5ad1-43e2-9e80-a7dc8cf7bdb6" valueTypeId="aa287e82-71c3-457a-9343-dd5d5fb4698e"/>
+  </producedTypes>
+  <name>оду_ОбщийПовтИсп</name>
+  <synonym>
+    <key>ru</key>
+    <value>*Обмен повт исп</value>
+  </synonym>
+  <comment>аян_ОбменПовтИсп</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="9d8a58e2-1803-45a9-aff6-84daf0a12931"/>
+</mdclass:ExternalDataProcessor>

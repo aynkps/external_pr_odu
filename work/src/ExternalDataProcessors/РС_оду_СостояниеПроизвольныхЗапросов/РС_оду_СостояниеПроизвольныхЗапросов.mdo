@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c4681aa7-f0cb-44b4-af89-2bb94a37bb74">
+  <producedTypes>
+    <objectType typeId="cb7bc8e8-7ac6-4be1-b58c-4e6d87c9205c" valueTypeId="619a9597-ec08-459f-9a2a-abcd14bd49e0"/>
+  </producedTypes>
+  <name>РС_оду_СостояниеПроизвольныхЗапросов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Р с оду состояние произвольных запросов</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="c2d76b13-7231-4636-aef0-9ef30dbbaebf"/>
+  <defaultForm>ExternalDataProcessor.РС_оду_СостояниеПроизвольныхЗапросов.Form.ФормаСписка</defaultForm>
+  <forms uuid="8fecc33d-762c-44bc-98e7-b6afb875f1f5">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="e59cc2d9-ad06-4d61-878d-482b04e4b8a4">
+    <name>ФормаЗаписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
