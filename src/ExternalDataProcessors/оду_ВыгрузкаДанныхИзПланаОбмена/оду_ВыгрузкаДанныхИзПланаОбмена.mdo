@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eb393503-7e9d-4f4a-b2c4-e22df5967828">
+  <producedTypes>
+    <objectType typeId="6a3c14e5-6eb9-4ea7-aac0-4f7dcb91e236" valueTypeId="a2162ae0-0ad9-4ae1-a263-46f4209dd6da"/>
+  </producedTypes>
+  <name>оду_ВыгрузкаДанныхИзПланаОбмена</name>
+  <synonym>
+    <key>ru</key>
+    <value>Оду выгрузка данных из плана обмена</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="1d73bae9-9d9c-4e51-8fd8-ecda7e56bdc2"/>
+  <defaultForm>ExternalDataProcessor.оду_ВыгрузкаДанныхИзПланаОбмена.Form.Форма</defaultForm>
+  <forms uuid="c0eae872-f351-4014-96c8-6e2bf33cd343">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

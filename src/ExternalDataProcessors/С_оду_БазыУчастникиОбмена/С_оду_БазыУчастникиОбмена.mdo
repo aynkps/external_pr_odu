@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1c907110-d7a5-4cd7-9b5c-c8d6e65065a9">
+  <producedTypes>
+    <objectType typeId="98b56cee-8026-4794-bbb7-8c2dfed2d097" valueTypeId="30e17c3d-f4e0-48e6-9b3c-2c17012a951e"/>
+  </producedTypes>
+  <name>С_оду_БазыУчастникиОбмена</name>
+  <synonym>
+    <key>ru</key>
+    <value>С оду базы участники обмена</value>
+  </synonym>
+  <comment>С_аян_БазыУчастникиОбмена</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="42399ad8-fba0-4194-8a18-5c5b8a667542"/>
+  <defaultForm>ExternalDataProcessor.С_оду_БазыУчастникиОбмена.Form.ФормаЭлемента</defaultForm>
+  <forms uuid="f49d41bc-38cc-43d9-a5e2-544ed62e7b2d">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="e9eb983b-f550-4185-8118-5b28bad28458">
+    <name>ФормаВыбораУчастникаОбмена</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора участника обмена</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
